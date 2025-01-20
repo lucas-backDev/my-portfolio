@@ -1,0 +1,17 @@
+.container {
+    padding: 40px 32px;
+    display: grid;
+    grid-template-rows: repeat(4, auto);
+    grid-template-areas: 
+    "header"
+    "buttons"
+    "skills"
+    "info";
+
+}
+
+@media (min-width: 768px) {
+    .container{
+        padding: 65px;
+    }
+}
