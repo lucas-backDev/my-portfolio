@@ -1,5 +1,5 @@
 /**
- *  @copyright 2024 lucas-backDev
+ *  @copyright 2025 lucas-backDev
  *  @license Apache-2.0
  */
 
@@ -10,6 +10,7 @@
 import Header from "./components/Header"
 import Hero from "./components/Hero"
 import About from "./components/About"
+import Skill from "./components/Skill"
 
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
         <main>
             <Hero />
             <About />
+            <Skill />
         </main>
       </>
 )
