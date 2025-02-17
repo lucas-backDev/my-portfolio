@@ -14,7 +14,36 @@ const works = [
       tags: ['Developing'],
       projectLink: 'https://github.com/lucas-backDev'
     },
-    
+    {
+      imgSrc: '',
+      title: 'I\'m working on it',
+      tags: ['Developing'],
+      projectLink: 'https://github.com/lucas-backDev'
+    },
+    {
+        imgSrc: '',
+        title: 'I\'m working on it',
+        tags: ['Developing'],
+        projectLink: 'https://github.com/lucas-backDev'
+    },
+    {
+        imgSrc: '',
+        title: 'I\'m working on it',
+        tags: ['Developing'],
+        projectLink: 'https://github.com/lucas-backDev'
+      },
+      {
+        imgSrc: '',
+        title: 'I\'m working on it',
+        tags: ['Developing'],
+        projectLink: 'https://github.com/lucas-backDev'
+      },
+      {
+        imgSrc: '',
+        title: 'I\'m working on it',
+        tags: ['Developing'],
+        projectLink: 'https://github.com/lucas-backDev'
+      },
   ];
 
 
@@ -26,7 +55,7 @@ const Work = () => {
         >
             <div className="container">
 
-                <h2 className="headline-2 mb-8">
+                <h2 className="headline-2 mb-8 reveal-up">
                     My portfolio highlights
                 </h2>
 
@@ -38,6 +67,7 @@ const Work = () => {
                         title={title}
                         tags={tags}
                         projectLink={projectLink}
+                        classes="reveal-up"
                         />
                     ))}
                 </div>
