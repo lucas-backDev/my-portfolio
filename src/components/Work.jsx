@@ -26,7 +26,7 @@ const Work = () => {
         >
             <div className="container">
 
-                <h2 className="headliner-2 mb-8">
+                <h2 className="headline-2 mb-8">
                     My portfolio highlights
                 </h2>
 
