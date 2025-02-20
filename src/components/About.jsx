@@ -24,7 +24,7 @@ const About = () => {
 
                 <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12">
                     <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-                    Welcome! I&apos;m Lucas, a professional fullstack developer with a knack for crafting stunning and highly functional websites and applications. Combining creativity and technical expertise. I transform your idea into digital masterpiece that excels.
+                    Welcome! I&apos;m Lucas, a professional fullstack developer with a knack for crafting stunning and highly functional websites and applications. Combining creativity and technical expertise, I transform your idea into a digital masterpiece that excels.
                     </p>
                     <div className=" flex flex-wrap items-center gap-4 md:gap-7">
                         {
