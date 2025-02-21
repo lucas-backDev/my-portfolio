@@ -53,11 +53,13 @@ const Navbar = ({ navOpen }) => {
           link: '#work',
           className: 'nav-link'
         },
+        /*
+        COMENTADO, POIS AINDA NÃO TENHO REVIEW
         {
           label: 'Reviews',
           link: '#reviews',
           className: 'nav-link'
-        },
+        },*/
         {
           label: 'Contact',
           link: '#contact',
