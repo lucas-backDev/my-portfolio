@@ -1,8 +1,23 @@
-# React + Vite
+<!--- # "Can be a image or a gift from the project pages" -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="./public/images/1.png" alt="My Portfolio">
+</p>
 
-Currently, two official plugins are available:
+[![readme: pt-br](https://img.shields.io/badge/README-pt_BR-ptbr)](READMEptbr.MD)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# My Portfolio
+
+Welcome to my portfolio! This project was created to present my skills, experiences and projects developed throughout my professional and academic journey.
+
+## Tech Stack
+
+<!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
+
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,vite,react,tailwind)](https://skillicons.dev)
+
+## License
+
+This software is available under the following licenses:
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
