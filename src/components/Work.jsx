@@ -12,10 +12,10 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
-      imgSrc: '',
-      title: 'I\'m working on it',
-      tags: ['Developing'],
-      projectLink: 'https://github.com/lucas-backDev'
+      imgSrc: 'https://ibb.co/7t1LFHNW',
+      title: 'Landing Page da Porto Seguro Bank, feito para a corretora Espec Seguros',
+      tags: ['Landing Page', 'WordPress', 'Elementor'],
+      projectLink: 'https://especseguros.com.br/lp_portoseguro/'
     },
     {
       imgSrc: '',
