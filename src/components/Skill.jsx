@@ -12,26 +12,6 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
     {
-        imgSrc: '/images/python.svg',
-        label: 'Python',
-        desc: 'Programming'
-      },
-    {
-      imgSrc: '/images/java.svg',
-      label: 'Java',
-      desc: 'Programming'
-    },
-    {
-        imgSrc: '/images/django.svg',
-        label: 'Django',
-        desc: 'Python Framework'
-    },
-    {
-        imgSrc: '/images/spring.svg',
-        label: 'Spring Boot',
-        desc: 'Java Framework'
-    },
-    {
       imgSrc: '/images/javascript.svg',
       label: 'JavaScript',
       desc: 'Interaction'
@@ -40,6 +20,21 @@ const skillItem = [
         imgSrc: '/images/react.svg',
         label: 'React',
         desc: 'Framework'
+    },
+    {
+        imgSrc: '/images/nextjs.svg',
+        label: 'Next.js',
+        desc: 'Framework'
+    },
+    {
+      imgSrc: '/images/nodejs.svg',
+      label: 'Node.js',
+      desc: 'Web Server'
+    },
+    {
+        imgSrc: '/images/HTML.svg',
+        label: 'HTML',
+        desc: 'Programming'
     },
     {
         imgSrc: '/images/css3.svg',
@@ -52,14 +47,34 @@ const skillItem = [
         desc: 'User Interface'
     },
     {
-        imgSrc: '/images/csharp.svg',
-        label: 'C#',
-        desc: 'Programming'
+        imgSrc: '/images/PHP.svg',
+        label: 'PHP',
+        desc: 'Web'
     },
     {
-      imgSrc: '/images/nodejs.svg',
-      label: 'NodeJS',
-      desc: 'Web Server'
+        imgSrc: '/images/python.svg',
+        label: 'Python',
+        desc: 'Programming'
+      },
+    {
+        imgSrc: '/images/django.svg',
+        label: 'Django',
+        desc: 'Python Framework'
+    },
+    {
+      imgSrc: '/images/java.svg',
+      label: 'Java',
+      desc: 'Programming'
+    },
+    {
+        imgSrc: '/images/spring.svg',
+        label: 'Spring Boot',
+        desc: 'Java Framework'
+    },
+    {
+      imgSrc: '/images/MySQL.svg',
+      label: 'MySQL',
+      desc: 'Database'
     },
     {
       imgSrc: '/images/postgresql.svg',
