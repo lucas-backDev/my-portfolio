@@ -13,14 +13,13 @@ import { ButtonPrimary, ButtonOutline } from "./Button"
 const Hero = () => {
 
     const handleDownloadCV = () => {
-        // Criar um link temporário para download
-        const link = document.createElement("a")
-        link.href = "/cv/lucas-gomes-cv.pdf"
-        link.download = "lucas-gomes-cv.pdf"
-        document.body.appendChild(link)
-        link.click()
-        document.body.removeChild(link)
-    }
+        const link = document.createElement("a");
+        link.href = "/cv/lucas-gomes-cv.pdf";
+        link.download = "Lucas-Gomes-CV.pdf";
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    };
 
     return (
         <section
