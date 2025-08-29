@@ -12,22 +12,22 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: '/images/lpporto.png',
-    title: 'Landing Page da Porto Seguro Bank, feito para a corretora Espec Seguros',
-    tags: ['Landing Page', 'WordPress', 'Elementor'],
-    projectLink: 'https://especseguros.com.br/lp_portoseguro/'
-  },
-  {
-    imgSrc: '',
+    imgSrc: './mvituzzoserena.png',
     title: 'Landing Page MVituzzo',
     tags: ['Landing Page', 'React', 'NextJS', 'TailwindCSS'],
-    projectLink: 'https://github.com/lucas-backDev'
+    projectLink: 'https://github.com/lucas-backDev/mvituzzoserena'
   },
   {
-    imgSrc: '',
-    title: 'I\'m working on it',
-    tags: ['Developing'],
-    projectLink: 'https://github.com/lucas-backDev'
+    imgSrc: './mvituzzo.png',
+    title: 'Landing Page MVituzzo',
+    tags: ['Landing Page', 'React', 'NextJS', 'TailwindCSS'],
+    projectLink: 'https://github.com/lucas-backDev/mvituzzo'
+  },
+  {
+    imgSrc: './todolist.png',
+    title: 'TODO List',
+    tags: ['Java', 'Spring Boot', 'React', 'NextJS', 'TailwindCSS'],
+    projectLink: 'https://github.com/lucas-backDev/TODO_List_App'
   },
   {
     imgSrc: '',
