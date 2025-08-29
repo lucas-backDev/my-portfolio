@@ -12,40 +12,22 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: './mvituzzoserena.png',
+    imgSrc: '/images/mvituzzoserena.png',
     title: 'Landing Page MVituzzo',
     tags: ['Landing Page', 'React', 'NextJS', 'TailwindCSS'],
     projectLink: 'https://github.com/lucas-backDev/mvituzzoserena'
   },
   {
-    imgSrc: './mvituzzo.png',
+    imgSrc: '/images/mvituzzo.png',
     title: 'Landing Page MVituzzo',
     tags: ['Landing Page', 'React', 'NextJS', 'TailwindCSS'],
     projectLink: 'https://github.com/lucas-backDev/mvituzzo'
   },
   {
-    imgSrc: './todolist.png',
+    imgSrc: '/images/todolist.png',
     title: 'TODO List',
     tags: ['Java', 'Spring Boot', 'React', 'NextJS', 'TailwindCSS'],
     projectLink: 'https://github.com/lucas-backDev/TODO_List_App'
-  },
-  {
-    imgSrc: '',
-    title: 'I\'m working on it',
-    tags: ['Developing'],
-    projectLink: 'https://github.com/lucas-backDev'
-  },
-  {
-    imgSrc: '',
-    title: 'I\'m working on it',
-    tags: ['Developing'],
-    projectLink: 'https://github.com/lucas-backDev'
-  },
-  {
-    imgSrc: '',
-    title: 'I\'m working on it',
-    tags: ['Developing'],
-    projectLink: 'https://github.com/lucas-backDev'
   },
 ];
 
